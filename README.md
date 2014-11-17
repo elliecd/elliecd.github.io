@@ -1,3 +1,3 @@
 elliecd.github.io
 =================
-Ellie's GitHub Site
+Ellie's GitHub Page
